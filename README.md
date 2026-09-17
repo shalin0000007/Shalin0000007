@@ -1,19 +1,18 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SHALIN GONGE — GITHUB PROFILE README
-     Last Updated: September 2026
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=220&amp;section=header&amp;text=Shalin%20Gonge&amp;fontSize=52&amp;fontColor=e6edf3&amp;fontAlignY=35&amp;desc=Systems%20Software%20%E2%80%A2%20High-Performance%20Computing%20%E2%80%A2%20Architecture&amp;descSize=16&amp;descColor=8b949e&amp;descAlignY=55&amp;animation=fadeIn" width="100%" />
+<!-- SHALIN GONGE — GITHUB PROFILE README | September 2026 -->
 
 <p align="center">
-  <a href="https://github.com/Shalin0000007"><img src="https://img.shields.io/badge/GitHub-Shalin0000007-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=e6edf3" /></a>
-  <a href="https://leetcode.com/u/Shalin07/"><img src="https://img.shields.io/badge/LeetCode-Shalin07-0d1117?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116" /></a>
-  <a href="mailto:shalin.gonge24@vit.edu"><img src="https://img.shields.io/badge/Email-shalin.gonge24@vit.edu-0d1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shalin%20Gonge&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Systems%20Software%20%E2%80%A2%20High-Performance%20Computing%20%E2%80%A2%20Architecture&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/Shalin0000007"><img src="https://img.shields.io/badge/GitHub-Shalin0000007-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Shalin07/"><img src="https://img.shields.io/badge/LeetCode-Shalin07-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>&nbsp;
+  <a href="mailto:shalin.gonge24@vit.edu"><img src="https://img.shields.io/badge/Email-shalin.gonge24@vit.edu-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+</p>
 
-## `$ whoami`
+---
+
+### `$ whoami`
 
 ```cpp
 namespace shalin {
@@ -21,7 +20,7 @@ namespace shalin {
 struct Engineer {
     const char* name       = "Shalin Gonge";
     const char* university = "Vishwakarma Institute of Technology, Pune";
-    const char* degree     = "B.Tech — Computer Science &amp; Engineering (IoT)";
+    const char* degree     = "B.Tech — Computer Science & Engineering (IoT)";
     const char* focus[]    = { "Systems Software", "Computer Architecture",
                                "High-Performance Computing", "Graphics" };
     bool        building   = true;
@@ -30,134 +29,82 @@ struct Engineer {
 }  // namespace shalin
 ```
 
-> **Pre-final year B.Tech CSE (IoT) student** building a deep understanding of how computers actually work — from transistors to compilers. Currently obsessing over CPU pipelining, cache hierarchies, and writing tight C++ that respects the hardware.
+> Pre-final year **B.Tech CSE (IoT)** student building a deep understanding of how computers actually work — from transistors to compilers. Currently obsessing over CPU pipelining, cache hierarchies, and writing tight C++ that respects the hardware.
 
-<br>
+---
 
-## ⚡ What I'm Working On
+### ⚡ What I'm Working On
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Core Systems</h3>
-      <ul>
-        <li>Computer Organization &amp; Architecture</li>
-        <li>CPU Pipelining &amp; Hazard Resolution</li>
-        <li>Cache Locality &amp; Memory Hierarchies</li>
-        <li>x86-64 Assembly &amp; Low-Level Optimization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📐 Problem Solving</h3>
-      <ul>
-        <li>Data Structures &amp; Algorithms in Modern C++</li>
-        <li>Monotonic Stacks, Graphs, Dynamic Programming</li>
-        <li>Sliding Window &amp; Two-Pointer Techniques</li>
-        <li>Daily LeetCode Grind</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+🧠 **Core Systems**
+- Computer Organization & Architecture (COAA)
+- CPU Pipelining & Hazard Resolution
+- Cache Locality & Memory Hierarchies
+- x86-64 Assembly & Low-Level Optimization
 
-<br>
+📐 **Problem Solving**
+- Data Structures & Algorithms in Modern C++
+- Monotonic Stacks, Graphs, Dynamic Programming
+- Sliding Window & Two-Pointer Techniques
+- Daily LeetCode Grind
 
-## 🛠️ Tech Stack
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,linux,git,docker,unity,vscode,bash&amp;perline=10&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,linux,git,docker,unity,vscode,bash&perline=10&theme=dark" />
 </p>
 
-<details>
-<summary><b>📋 Detailed Breakdown</b></summary>
-<br>
+**Languages:** Modern C++ (C++17/20), C, Python, Java  
+**Systems:** Computer Architecture, CPU Pipelining, Cache Locality, x86-64 Assembly  
+**Algorithms:** Monotonic Stacks, Sliding Window, Trees, Graphs, Dynamic Programming  
+**Hardware & CAD:** SolidWorks 2026, 3DEXPERIENCE, CadQuery, ESP32-C3  
+**Tools:** Linux, Bash, Git, GitHub Actions, Docker, Unity (C#), VS Code
 
-| Layer | Technologies |
-|:---|:---|
-| **Languages** | Modern C++ (C++17/20), C, Python, Java |
-| **Systems** | Computer Architecture (COAA), CPU Pipelining, Cache Locality, x86-64 Assembly |
-| **Algorithms** | Monotonic Stacks, Sliding Window, Trees, Graphs, Dynamic Programming |
-| **Hardware &amp; CAD** | SolidWorks 2026, 3DEXPERIENCE, CadQuery, ESP32-C3 |
-| **Tools &amp; Platform** | Linux, Bash, Git, GitHub Actions, Docker, Unity (C#), VS Code |
+---
 
-</details>
-
-<br>
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shalin0000007&amp;theme=darkhub&amp;no-bg=true&amp;no-frame=true&amp;column=7&amp;margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shalin0000007&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" />
 </p>
 
-<br>
+---
 
-## 📊 LeetCode
+### 📊 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/Shalin07/">
-    <img src="https://leetcard.jacoblin.cool/Shalin07?theme=dark&amp;font=Fira%20Code&amp;ext=heatmap" width="90%" />
+    <img src="https://leetcard.jacoblin.cool/Shalin07?theme=dark&font=Fira%20Code&ext=heatmap" width="90%" />
   </a>
 </p>
 
-<br>
+---
 
-## 🔥 Contribution Streak
+### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shalin0000007&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=8&amp;date_format=j%20M%5B%20Y%5D" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=Shalin0000007&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" width="90%" />
 </p>
 
-<br>
+---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/Shalin0000007">⚡ HEIRFLOW</a>
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithms-0d1117?style=flat-square&amp;logo=thealgorithms&amp;logoColor=white" />
-      </p>
-      <p>
-        Master DSA &amp; Systems Architecture repository — algorithmic solutions in Modern C++ organized by paradigm with complexity proofs and editorial notes.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/Shalin0000007">👓 VisionRide</a>
-      </h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white" />
-        <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&amp;logo=dassaultsystemes&amp;logoColor=white" />
-      </p>
-      <p>
-        Smart assistive wearable for visually impaired navigation — 14-component CAD assembly with ESP32-C3, ToF lidar, and on-device OCR. <em>Aakruti 2026, Team NovaX.</em>
-      </p>
-    </td>
-  </tr>
-</table>
+**⚡ [HEIRFLOW](https://github.com/Shalin0000007)** — Master DSA & Systems Architecture  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-0d1117?style=flat-square&logo=thealgorithms&logoColor=white)  
+> Algorithmic solutions in Modern C++ organized by paradigm with complexity proofs and editorial notes.
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🐍 CONTRIBUTION SNAKE
-     To enable: Create .github/workflows/snake.yml in your profile repo
-     with the Platane/snk@v3 action, then uncomment the block below.
-
-     <picture>
-       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shalin0000007/Shalin0000007/output/github-snake-dark.svg">
-       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shalin0000007/Shalin0000007/output/github-snake.svg">
-       <img alt="github-snake" src="https://raw.githubusercontent.com/Shalin0000007/Shalin0000007/output/github-snake.svg">
-     </picture>
-     ═══════════════════════════════════════════════════════════════════════════ -->
+**👓 [VisionRide](https://github.com/Shalin0000007)** — Smart Assistive Wearable  
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)  
+> 14-component CAD assembly with ESP32-C3, ToF lidar, and on-device OCR for visually impaired navigation. *Aakruti 2026, Team NovaX.*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shalin0000007&amp;style=for-the-badge&amp;color=1f6feb&amp;label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Shalin0000007&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:1f6feb&amp;height=100&amp;section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
+</p>
