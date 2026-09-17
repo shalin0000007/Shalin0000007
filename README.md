@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+%26+Engineering+%40+VIT+Pune;Systems%20Software%20%26%20High-Performance%20Computing;Creator%20of%20VisionRide%20(Aakruti%202026)" alt="Typing SVG" />
+  🎓 B.Tech in Computer Science & Engineering (IoT) @ VIT Pune
 </h3>
 
 <p align="center">
@@ -20,12 +20,13 @@
 struct SoftwareEngineer {
     std::string name     = "Shalin Gonge";
     std::string college  = "Vishwakarma Institute of Technology (VIT), Pune";
+    std::string branch   = "Computer Science & Engineering (IoT)";
     std::string focus    = "High-Performance Systems, Computer Architecture & Graphics";
     bool open_to_work    = true;
 };
 ```
 
-- 🏛️ **Academics & Core:** Pre-final Year B.Tech CSE at **VIT Pune**. Focusing on **Computer Organization & Architecture (COAA)**, CPU Pipelining, and Cache Memory systems.
+- 🏛️ **Academics & Core:** Pre-final Year B.Tech CSE (IoT) at **VIT Pune**. Focusing on **Computer Organization & Architecture (COAA)**, CPU Pipelining, and Cache Memory systems.
 - ⚡ **Problem Solving:** Passionate about Data Structures & Algorithms in Modern C++ (Monotonic Stacks, Trees, Graphs, Two Pointers).
 - 🧱 **Product Engineering:** Lead Designer for **VisionRide** (Aakruti 2026, Team NovaX) — full 14-component CAD assembly, wearable assistive device with ESP32 & ToF sensors.
 - 🎯 **Target:** Systems Software Engineering & Low-Level Architecture.
@@ -35,7 +36,7 @@ struct SoftwareEngineer {
 ### 🛠️ Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,linux,git,docker,unity,vscode,cmake,bash&perline=11&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,linux,git,docker,unity,vscode,bash&perline=10&theme=dark" />
 </p>
 
 | Domain | Technologies & Core Proficiencies |
@@ -48,17 +49,12 @@ struct SoftwareEngineer {
 
 ---
 
-### 📊 Live Performance & LeetCode Metrics
+### 📊 Live LeetCode Metrics
 
 <p align="center">
   <a href="https://leetcode.com/u/Shalin07/">
     <img src="https://leetcard.jacoblin.cool/Shalin07?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shalin0000007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalin0000007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -72,19 +68,11 @@ struct SoftwareEngineer {
 #### 👓 [VisionRide — Smart Assistive Vision & Guidance Wearable](https://github.com/Shalin0000007)
 > **AAKRUTI 2026 (Team NovaX | ID: AG26-15005943)**  
 > A low-cost wearable assistive device engineered for visually impaired navigation.
-> - **Mechanical:** 14 parametric 3D CAD parts modeled and assembled in SolidWorks 2026 (`VR-ASM-001`).
-> - **Embedded & Edge AI:** ESP32-C3 microcontroller, VL53L0X Time-of-Flight lidar distance sensor, dual tactile controls, and offline on-device OCR vision pipeline.
+> - **Mechanical:** 14 parametric 3D CAD parts modeled and assembled in SolidWorks 2026.
+> - **Embedded & Edge AI:** ESP32-C3 microcontroller, VL53L0X Time-of-Flight sensor, and offline on-device OCR.
 
-#### ⚡ [HEIRFLOW — Master DSA & Systems Architecture](https://github.com/Shalin0000007)
-> Systematic repository tracking algorithmic solutions in Modern C++ categorized by algorithmic paradigm (Monotonic Stack, Sliding Window, Dynamic Programming) with complexity proofs.
-
----
-
-### 🐍 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shalin0000007/Shalin0000007/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
+#### ⚡ [HEIRFLOW — DSA & Systems Architecture](https://github.com/Shalin0000007)
+> Algorithmic solutions in Modern C++ categorized by paradigm (Monotonic Stack, Sliding Window, Dynamic Programming).
 
 ---
 
