@@ -80,14 +80,6 @@ struct SoftwareEngineer {
 
 ---
 
-### 🐍 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shalin0000007/Shalin0000007/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61afef,100:98c379&height=90&section=footer" width="100%" />
 </p>
