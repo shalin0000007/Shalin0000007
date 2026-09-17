@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Shalin%20Gonge&fontSize=44&fontAlignY=36&desc=Systems%20Software%20Engineer%20%7C%20High-Performance%20Computing%20%7C%20C%2B%2B%20%26%20Architecture&descAlignY=58&descSize=17&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61afef,100:98c379&height=200&section=header&text=Shalin%20Gonge&fontSize=46&fontAlignY=38&desc=Systems%20Software%20Engineer%20%E2%80%A2%20High-Performance%20Computing&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VIT+Pune;NVIDIA+90-Day+Core+Systems+Sprint;106%2B+DSA+Problems+Conquered+on+LeetCode;Low-Level+Systems%2C+COAA+%26+Modern+C%2B%2B;Creator+of+VisionRide+(Aakruti+2026)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+%26+Engineering+%40+VIT+Pune;Systems%20Software%20%26%20High-Performance%20Computing;Creator%20of%20VisionRide%20(Aakruti%202026)" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -21,15 +21,14 @@ struct SoftwareEngineer {
     std::string name     = "Shalin Gonge";
     std::string college  = "Vishwakarma Institute of Technology (VIT), Pune";
     std::string focus    = "High-Performance Systems, Computer Architecture & Graphics";
-    int leetcode_solved  = 106;
     bool open_to_work    = true;
 };
 ```
 
-- 🏛️ **Academics & Core:** Pre-final Year B.Tech CSE at **VIT Pune**. Deep diving into **Computer Organization & Architecture (COAA)**, CPU Pipelining, and Cache Memory.
-- ⚡ **Competitive Programming:** **106+ LeetCode Problems** solved with optimal space/time complexities (Monotonic Stacks, Trees, Graphs, Two Pointers).
+- 🏛️ **Academics & Core:** Pre-final Year B.Tech CSE at **VIT Pune**. Focusing on **Computer Organization & Architecture (COAA)**, CPU Pipelining, and Cache Memory systems.
+- ⚡ **Problem Solving:** Passionate about Data Structures & Algorithms in Modern C++ (Monotonic Stacks, Trees, Graphs, Two Pointers).
 - 🧱 **Product Engineering:** Lead Designer for **VisionRide** (Aakruti 2026, Team NovaX) — full 14-component CAD assembly, wearable assistive device with ESP32 & ToF sensors.
-- 🎯 **Target:** Systems Software Engineer & Low-Level Optimization at tier-1 product firms.
+- 🎯 **Target:** Systems Software Engineering & Low-Level Architecture.
 
 ---
 
@@ -77,7 +76,7 @@ struct SoftwareEngineer {
 > - **Embedded & Edge AI:** ESP32-C3 microcontroller, VL53L0X Time-of-Flight lidar distance sensor, dual tactile controls, and offline on-device OCR vision pipeline.
 
 #### ⚡ [HEIRFLOW — Master DSA & Systems Architecture](https://github.com/Shalin0000007)
-> Systematic repository tracking **106+ algorithm solutions** in Modern C++ categorized by algorithmic paradigm (Monotonic Stack, Sliding Window, Dynamic Programming) with complexity proofs.
+> Systematic repository tracking algorithmic solutions in Modern C++ categorized by algorithmic paradigm (Monotonic Stack, Sliding Window, Dynamic Programming) with complexity proofs.
 
 ---
 
@@ -90,5 +89,5 @@ struct SoftwareEngineer {
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61afef,100:98c379&height=90&section=footer" width="100%" />
 </p>
