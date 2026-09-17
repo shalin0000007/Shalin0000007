@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2500&color=61AFEF&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+%26+Engineering+%40+VIT+Pune;Systems+Software+%26+Low-Level+Computing;Modern+C%2B%2B+%26+Data+Structures+Explorer" alt="Typing SVG" />
+  🎓 B.Tech in Computer Science & Engineering (IoT) @ VIT Pune
 </h3>
 
 <p align="center">
@@ -20,12 +20,13 @@
 struct SoftwareEngineer {
     std::string name     = "Shalin Gonge";
     std::string college  = "Vishwakarma Institute of Technology (VIT), Pune";
+    std::string branch   = "Computer Science & Engineering (IoT)";
     std::string focus    = "High-Performance Systems, Computer Architecture & Graphics";
     bool open_to_work    = true;
 };
 ```
 
-- 🏛️ **Academics & Core:** Pre-final Year B.Tech CSE at **VIT Pune**. Focusing on **Computer Organization & Architecture (COAA)**, CPU Pipelining, and Cache Memory systems.
+- 🏛️ **Academics & Core:** Pre-final Year B.Tech CSE (IoT) at **VIT Pune**. Focusing on **Computer Organization & Architecture (COAA)**, CPU Pipelining, and Cache Memory systems.
 - ⚡ **Problem Solving:** Passionate about Data Structures & Algorithms in Modern C++ (Monotonic Stacks, Trees, Graphs, Two Pointers).
 - 🧱 **Product Engineering:** Lead Designer for **VisionRide** (Aakruti 2026, Team NovaX) — full 14-component CAD assembly, wearable assistive device with ESP32 & ToF sensors.
 - 🎯 **Target:** Systems Software Engineering & Low-Level Architecture.
