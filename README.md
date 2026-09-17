@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+%26+Engineering+%40+VIT+Pune;Systems%20Software%20%26%20High-Performance%20Computing;Creator%20of%20VisionRide%20(Aakruti%202026)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+%26+Engineering+%40+VIT+Pune;Systems+Software+%26+Low-Level+Computing;Modern+C%2B%2B+%26+Data+Structures+Explorer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
