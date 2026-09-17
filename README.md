@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61AFEF&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+%26+Engineering+%40+VIT+Pune;Systems+Software+%26+Low-Level+Computing;Modern+C%2B%2B+%26+Data+Structures+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2500&color=61AFEF&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+%26+Engineering+%40+VIT+Pune;Systems+Software+%26+Low-Level+Computing;Modern+C%2B%2B+%26+Data+Structures+Explorer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -35,7 +35,7 @@ struct SoftwareEngineer {
 ### 🛠️ Technical Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,linux,git,docker,unity,vscode,cmake,bash&perline=11&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,linux,git,docker,unity,vscode,bash&perline=10&theme=dark" />
 </p>
 
 | Domain | Technologies & Core Proficiencies |
@@ -54,11 +54,6 @@ struct SoftwareEngineer {
   <a href="https://leetcode.com/u/Shalin07/">
     <img src="https://leetcard.jacoblin.cool/Shalin07?theme=dark&font=Fira%20Code&ext=heatmap" width="95%" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shalin0000007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalin0000007&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
